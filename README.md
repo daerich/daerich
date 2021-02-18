@@ -1,5 +1,6 @@
-### Hi there 👋
+### Tip the hat
 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=daerich&exclude_repo=daerich.github.io,daerich.github.io.old)[My language stats]
 <!--
 **daerich/daerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
