@@ -1,6 +1,8 @@
-### Tip the hat
+### Tip the hat  🎩 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=daerich&exclude_repo=daerich.github.io,daerich.github.io.old)[My language stats]
+[![daerich's github stats](https://github-readme-stats.vercel.app/api?username=daerich&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true?exclude_repo=daerich.github.io,daerich.github.io.old)](https://github.com/daerich)
+
+[Language stat](https://github-readme-stats.vercel.app/api/top-langs/?username=daerich&exclude_repo=daerich.github.io,daerich.github.io.old)]
 <!--
 **daerich/daerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
