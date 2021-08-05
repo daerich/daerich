@@ -5,6 +5,8 @@
 ![Language stat](https://github-readme-stats.vercel.app/api/top-langs/?username=daerich&exclude_repo=daerich.github.io,daerich.github.io.old,Payday-Left-Handed-Mod,void-docs)
 
 __Stuff__
+- [.vimrc](https://gist.github.com/daerich/0eeb70d5c55c88d6fe58d4408fa22cc3)
+- [.bashrc](https://gist.github.com/daerich/77a146d949881de91fee8bf98d4073fa)
 - [My gists](https://gist.github.com/daerich)
 <!--
 **daerich/daerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
