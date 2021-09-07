@@ -4,6 +4,8 @@
 
 ![Language stat](https://github-readme-stats.vercel.app/api/top-langs/?username=daerich&exclude_repo=daerich.github.io,daerich.github.io.old,Payday-Left-Handed-Mod,void-docs)
 
+__[ME ON CODEBERG](https://codeberg.org/daerich)__ ⛰️
+
 __Stuff__
 - [.vimrc](https://gist.github.com/daerich/0eeb70d5c55c88d6fe58d4408fa22cc3)
 - [.bashrc](https://gist.github.com/daerich/77a146d949881de91fee8bf98d4073fa)
