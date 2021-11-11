@@ -1,4 +1,5 @@
 ### Tip the hat  🎩 
+__[CODING GUIDELINES📚](https://gist.github.com/daerich/12e6e8d6586b31f370e8bf2c0ed1bee1)__
 
 [![daerich's github stats](https://github-readme-stats.vercel.app/api?username=daerich&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true?exclude_repo=daerich.github.io,daerich.github.io.old)](https://github.com/daerich)
 
